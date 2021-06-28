@@ -9,5 +9,6 @@
 </head>
 <body>
 	Git(싱글) 연습!
+	Git(지금은 허브) 연습!
 </body>
 </html>
